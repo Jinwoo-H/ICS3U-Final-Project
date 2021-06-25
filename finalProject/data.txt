@@ -1,0 +1,60 @@
+Lewis Hamilton
+Mercedes
+44
+75.484000
+Valtteri Bottas
+Mercedes
+77
+75.902000
+Max Verstappen
+Red Bull Racing
+33
+77.637000
+Daniel Ricciardo
+Renault
+3
+77.552000
+Charles Leclerc
+Ferrari
+16
+78.173000
+Sergio Perez
+Racing Point
+11
+78.084000
+Lando Norris
+McLaren
+4
+78.069000
+Carlos Sainz
+McLaren
+55
+78.118000
+Alexander Albon
+Red Bull Racing
+23
+76.177000
+Pierre Gasly
+AlphaTauri
+10
+80.403000
+Lance Stroll
+Racing Point
+18
+78.360000
+Esteban Ocon
+Renault
+12
+79.606000
+Daniil Kvyat
+AlphaTauri
+26
+77.666000
+Sebastian Vettel
+Ferrari
+5
+77.767000
+Nico Hulkenberg
+Racing Point
+27
+78.942000

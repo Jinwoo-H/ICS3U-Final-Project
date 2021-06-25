@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605197661 source:c:\users\jinwo\documents\codeblocks\finalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
